@@ -14,3 +14,5 @@
 ### Segala resiko ditanggung pemakai !
     Script ini open source silahkan di replace sesuka hati kalian,
     TIDAK UNTUK DIPERJUAL BELIKAN !
+    
+    Telegram : @akubaic
