@@ -16,3 +16,6 @@
     TIDAK UNTUK DIPERJUAL BELIKAN !
     
     Telegram : @akubaic
+
+## Donasi
+ https://saweria.co/akubaic
