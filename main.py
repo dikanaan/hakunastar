@@ -22,9 +22,7 @@ url = "https://api.hakuna.live/v1/live-room/hosts/"+linkt
 headers = CaseInsensitiveDict()
 headers["accept-language"] = "in-ID"
 headers["user-agent"] = "Hakuna/110 Android/6.0/443 okhttp/4.8.0"
-headers["x-hakuna-deviceid"] = "{'aid':'7D17438824B780A8E3445DD0795E6007DAF35B9E40C9852066FCFE1C70AB3E38'}"
 headers["accept-encoding"] = "gzip"
-headers["cookie"] = "__cfduid=dc1dd0e47df8e6200e02ba4f93d6dbad81610973790; __cfruid=37ec94e49f81e7a08a530c24f369325aa6730716-1610973791"
 headers["Authorization"] = "Bearer "+bear
 
 
@@ -66,11 +64,9 @@ for item in range(0, stop):
   headers = CaseInsensitiveDict()
   headers["accept-language"] = "in-ID"
   headers["user-agent"] = "Hakuna/110 Android/6.0/443 okhttp/4.8.0"
-  headers["x-hakuna-deviceid"] = "{'aid':'7D17438824B780A8E3445DD0795E6007DAF35B9E40C9852066FCFE1C70AB3E38'}"
   headers["Content-Type"] = "application/json"
   headers["Content-Length"] = "0"
   headers["accept-encoding"] = "gzip"
-  headers["cookie"] = "__cfduid=db927351dee29a01c199bbdea351383e31610944695; __cfruid=478f4b22f4b5096dbf5e076c436f13d1bf176088-1610944695"
   headers["Authorization"] = "Bearer "+bearer
   
   respn = requests.post(urlj, headers=headers)
