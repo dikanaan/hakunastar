@@ -1,20 +1,22 @@
-# hakunastar
+# Hakunastar
 
-## install
+<img src="image.PNG">
+
+## install di Termux
 - pkg install git
 - y
 - git clone https://github.com/katull/hakunastar.git
 
 
-## menjalankan
+## Menjalankan di Termux
 - cd hakunastar
 - bash install.sh
-- python main.py
+- python index.py
 
-### Segala resiko ditanggung pemakai !
-    Script ini open source silahkan di replace sesuka hati kalian,
-    TIDAK UNTUK DIPERJUAL BELIKAN !
+### Xxxx !
+    Segala resiko pemakaian ditanggung pemakai.
     
+    contact:
     Telegram : @akubaic
 
 ## Donasi
